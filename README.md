@@ -1,6 +1,25 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheMajorMayhem&theme=dark&background=45%2CEB0000%2C000000)](https://git.io/streak-stats)
+<a href="https://github.com/TheMajorMayhem">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/TheMajorMayhem">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/TheMajorMayhem">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
 
-<!---
-TheMajorMayhem/TheMajorMayhem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/TheMajorMayhem">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
+
+<a href="https://github.com/TheMajorMayhem">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
+
+<a href="https://github.com/TheMajorMayhem">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/TheMajorMayhem">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
