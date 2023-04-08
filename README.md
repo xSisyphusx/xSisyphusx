@@ -1,1 +1,1 @@
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">]
+[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/TheMajorMayhem/TheMajorMayhem/fb36f18ca7f1c7d52f565e1960a6929366a30a77/github-metrics.svg">]
