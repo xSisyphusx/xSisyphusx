@@ -9,7 +9,7 @@ on:
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
 
