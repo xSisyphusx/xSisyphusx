@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 5.43kb of code in 8 edited files across 12 commits</small>
+                <small>estimation from 8.15kb of code in 11 edited files across 15 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -34,8 +34,8 @@
                                 Lua
                             </div>
                             <small>
-                                <div>27 lines</div>
-                                <div>1.13 kB</div>
+                                <div>104 lines</div>
+                                <div>3.85 kB</div>
                             </small>
                         </div>
                     </section>
