@@ -1,2 +1,2 @@
-[<img align="center" width="700" alt="🦑" src="github-metrics.svg">](#)
+[<img align="center" width="800" alt="🦑" src="github-metrics.svg">](#)
 
